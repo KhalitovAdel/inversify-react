@@ -6,6 +6,12 @@ name: Node.js Package
 on:
   check_run:
     types: [rerequested, completed]
+  pull_request:
+    branches:
+      - master
+  push:
+    branches:
+      - master
 
 jobs:
   build:
