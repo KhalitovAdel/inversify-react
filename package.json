@@ -1,5 +1,5 @@
 {
-  "name": "@hello-world/inversify-react",
+  "name": "@khalitovadel/inversify-react",
   "version": "1.1.7",
   "description": "Components and decorators to connect react with inversify.",
   "main": "./dist/index.js",
